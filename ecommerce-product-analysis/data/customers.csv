@@ -1,0 +1,651 @@
+customer_id,signup_date,acquisition_channel,region
+1,2025-02-02,social,Novosibirsk
+2,2025-10-10,referral,Kazan
+3,2025-08-27,paid_search,Saint Petersburg
+4,2025-06-10,social,Kazan
+5,2025-06-08,organic,Moscow
+6,2025-11-10,referral,Other
+7,2025-02-01,organic,Other
+8,2025-09-12,social,Other
+9,2025-03-15,referral,Kazan
+10,2025-02-04,organic,Moscow
+11,2025-07-12,social,Other
+12,2025-12-23,organic,Saint Petersburg
+13,2025-09-26,referral,Moscow
+14,2025-10-05,organic,Saint Petersburg
+15,2025-09-19,email,Other
+16,2025-10-14,organic,Novosibirsk
+17,2025-07-07,email,Other
+18,2025-02-16,referral,Other
+19,2025-11-03,social,Moscow
+20,2025-06-14,referral,Other
+21,2025-07-02,referral,Saint Petersburg
+22,2025-05-16,email,Novosibirsk
+23,2025-03-08,organic,Moscow
+24,2025-12-05,social,Other
+25,2025-10-13,organic,Saint Petersburg
+26,2025-08-24,social,Moscow
+27,2025-05-27,organic,Kazan
+28,2025-10-28,social,Moscow
+29,2025-07-19,social,Moscow
+30,2025-06-11,paid_search,Novosibirsk
+31,2025-06-14,paid_search,Saint Petersburg
+32,2025-03-24,referral,Other
+33,2025-02-03,referral,Saint Petersburg
+34,2025-07-22,paid_search,Other
+35,2025-11-21,social,Kazan
+36,2025-01-24,email,Novosibirsk
+37,2025-11-10,organic,Novosibirsk
+38,2025-10-30,organic,Kazan
+39,2025-04-12,organic,Other
+40,2025-08-19,social,Saint Petersburg
+41,2025-03-02,paid_search,Moscow
+42,2025-10-04,referral,Other
+43,2025-09-13,social,Other
+44,2025-05-10,paid_search,Moscow
+45,2025-01-25,email,Saint Petersburg
+46,2025-12-21,referral,Other
+47,2025-06-12,organic,Other
+48,2025-11-22,paid_search,Other
+49,2025-09-05,paid_search,Kazan
+50,2025-10-12,organic,Novosibirsk
+51,2025-10-05,organic,Saint Petersburg
+52,2025-03-13,email,Other
+53,2025-05-13,paid_search,Saint Petersburg
+54,2025-06-20,paid_search,Other
+55,2025-07-01,referral,Saint Petersburg
+56,2025-01-16,social,Kazan
+57,2025-07-19,email,Other
+58,2025-02-26,referral,Kazan
+59,2025-09-29,paid_search,Other
+60,2025-09-07,paid_search,Saint Petersburg
+61,2025-12-03,email,Novosibirsk
+62,2025-09-29,social,Saint Petersburg
+63,2025-05-14,email,Saint Petersburg
+64,2025-12-20,organic,Saint Petersburg
+65,2025-05-30,referral,Moscow
+66,2025-04-29,social,Moscow
+67,2025-11-27,organic,Novosibirsk
+68,2025-05-16,social,Novosibirsk
+69,2025-01-28,social,Novosibirsk
+70,2025-06-21,organic,Moscow
+71,2025-10-18,paid_search,Saint Petersburg
+72,2025-03-11,referral,Moscow
+73,2025-06-18,organic,Other
+74,2025-02-17,paid_search,Other
+75,2025-09-08,paid_search,Moscow
+76,2025-06-23,paid_search,Novosibirsk
+77,2025-05-01,email,Moscow
+78,2025-03-24,referral,Moscow
+79,2025-07-26,organic,Moscow
+80,2025-09-02,email,Saint Petersburg
+81,2025-12-10,referral,Other
+82,2025-06-09,organic,Other
+83,2025-02-28,referral,Moscow
+84,2025-10-31,organic,Kazan
+85,2025-08-18,email,Other
+86,2025-09-13,social,Other
+87,2025-02-05,social,Novosibirsk
+88,2025-04-25,organic,Moscow
+89,2025-10-08,email,Novosibirsk
+90,2025-10-31,organic,Saint Petersburg
+91,2025-06-08,organic,Other
+92,2025-10-21,organic,Saint Petersburg
+93,2025-11-04,referral,Other
+94,2025-05-22,organic,Moscow
+95,2025-11-24,email,Saint Petersburg
+96,2025-04-16,social,Other
+97,2025-03-29,organic,Novosibirsk
+98,2025-09-07,organic,Saint Petersburg
+99,2025-08-21,organic,Other
+100,2025-02-21,social,Other
+101,2025-10-31,referral,Saint Petersburg
+102,2025-03-14,organic,Kazan
+103,2025-10-21,referral,Kazan
+104,2025-01-03,organic,Novosibirsk
+105,2025-10-18,referral,Saint Petersburg
+106,2025-10-15,email,Moscow
+107,2025-10-12,referral,Other
+108,2025-08-31,social,Other
+109,2025-06-22,referral,Other
+110,2025-09-15,organic,Other
+111,2025-04-12,organic,Other
+112,2025-10-12,organic,Other
+113,2025-07-22,paid_search,Other
+114,2025-06-17,referral,Kazan
+115,2025-07-04,social,Kazan
+116,2025-07-27,referral,Moscow
+117,2025-01-14,organic,Novosibirsk
+118,2025-02-21,referral,Saint Petersburg
+119,2025-03-31,organic,Moscow
+120,2025-02-11,organic,Novosibirsk
+121,2025-06-10,social,Saint Petersburg
+122,2025-09-01,email,Moscow
+123,2025-08-27,social,Other
+124,2025-06-21,organic,Other
+125,2025-11-09,social,Moscow
+126,2025-07-26,organic,Moscow
+127,2025-01-29,email,Saint Petersburg
+128,2025-10-07,social,Other
+129,2025-07-29,organic,Other
+130,2025-08-20,organic,Moscow
+131,2025-07-26,organic,Other
+132,2025-07-22,email,Moscow
+133,2025-02-03,paid_search,Saint Petersburg
+134,2025-07-24,referral,Other
+135,2025-10-18,social,Moscow
+136,2025-04-21,social,Moscow
+137,2025-08-09,organic,Saint Petersburg
+138,2025-01-12,email,Novosibirsk
+139,2025-05-07,paid_search,Other
+140,2025-06-09,social,Other
+141,2025-12-25,social,Moscow
+142,2025-03-20,social,Moscow
+143,2025-04-11,email,Other
+144,2025-05-30,organic,Moscow
+145,2025-12-29,paid_search,Other
+146,2025-11-08,paid_search,Novosibirsk
+147,2025-01-13,paid_search,Moscow
+148,2025-03-27,organic,Other
+149,2025-10-27,organic,Moscow
+150,2025-01-22,organic,Saint Petersburg
+151,2025-11-09,paid_search,Kazan
+152,2025-04-13,paid_search,Kazan
+153,2025-12-01,social,Other
+154,2025-04-18,social,Novosibirsk
+155,2025-06-08,paid_search,Other
+156,2025-08-30,paid_search,Other
+157,2025-02-16,organic,Kazan
+158,2025-07-23,social,Moscow
+159,2025-07-04,paid_search,Other
+160,2025-10-14,organic,Other
+161,2025-12-30,paid_search,Saint Petersburg
+162,2025-08-31,paid_search,Kazan
+163,2025-05-30,organic,Saint Petersburg
+164,2025-05-29,social,Moscow
+165,2025-06-02,social,Other
+166,2025-10-25,social,Saint Petersburg
+167,2025-04-28,social,Other
+168,2025-03-02,social,Other
+169,2025-05-03,paid_search,Other
+170,2025-01-09,referral,Saint Petersburg
+171,2025-02-08,social,Saint Petersburg
+172,2025-02-02,paid_search,Other
+173,2025-10-09,social,Other
+174,2025-09-21,paid_search,Kazan
+175,2025-09-12,paid_search,Other
+176,2025-06-18,referral,Moscow
+177,2025-09-19,email,Other
+178,2025-02-28,email,Moscow
+179,2025-11-25,paid_search,Moscow
+180,2025-07-02,paid_search,Kazan
+181,2025-12-09,referral,Moscow
+182,2025-02-25,paid_search,Moscow
+183,2025-07-01,referral,Moscow
+184,2025-09-12,paid_search,Saint Petersburg
+185,2025-06-30,organic,Other
+186,2025-06-12,organic,Moscow
+187,2025-03-02,referral,Novosibirsk
+188,2025-05-20,organic,Other
+189,2025-03-29,organic,Moscow
+190,2025-04-21,paid_search,Moscow
+191,2025-09-07,organic,Other
+192,2025-08-19,paid_search,Other
+193,2025-08-10,referral,Kazan
+194,2025-05-13,organic,Other
+195,2025-12-17,referral,Moscow
+196,2025-02-01,referral,Saint Petersburg
+197,2025-05-06,paid_search,Other
+198,2025-02-13,organic,Moscow
+199,2025-05-04,social,Other
+200,2025-12-18,organic,Kazan
+201,2025-05-14,paid_search,Other
+202,2025-11-28,email,Kazan
+203,2025-06-30,email,Saint Petersburg
+204,2025-09-13,referral,Moscow
+205,2025-06-16,paid_search,Moscow
+206,2025-04-08,social,Other
+207,2025-10-06,social,Moscow
+208,2025-12-20,paid_search,Moscow
+209,2025-04-07,social,Moscow
+210,2025-10-12,organic,Moscow
+211,2025-04-06,organic,Other
+212,2025-09-19,paid_search,Saint Petersburg
+213,2025-10-15,organic,Other
+214,2025-06-14,organic,Moscow
+215,2025-09-26,referral,Novosibirsk
+216,2025-04-10,email,Saint Petersburg
+217,2025-01-29,social,Saint Petersburg
+218,2025-02-05,referral,Other
+219,2025-06-13,email,Other
+220,2025-11-26,organic,Other
+221,2025-02-16,paid_search,Moscow
+222,2025-06-16,paid_search,Moscow
+223,2025-09-14,organic,Novosibirsk
+224,2025-03-15,referral,Saint Petersburg
+225,2025-09-21,paid_search,Other
+226,2025-04-22,paid_search,Kazan
+227,2025-10-23,organic,Kazan
+228,2025-07-31,organic,Other
+229,2025-07-19,email,Other
+230,2025-03-06,organic,Moscow
+231,2025-06-19,organic,Moscow
+232,2025-11-09,organic,Novosibirsk
+233,2025-01-08,paid_search,Kazan
+234,2025-10-04,social,Moscow
+235,2025-06-29,paid_search,Saint Petersburg
+236,2025-09-20,organic,Other
+237,2025-08-31,organic,Other
+238,2025-06-07,referral,Kazan
+239,2025-04-23,social,Saint Petersburg
+240,2025-08-17,social,Moscow
+241,2025-02-21,social,Kazan
+242,2025-08-02,referral,Saint Petersburg
+243,2025-02-04,organic,Kazan
+244,2025-08-26,paid_search,Other
+245,2025-08-18,paid_search,Moscow
+246,2025-01-31,paid_search,Moscow
+247,2025-10-04,referral,Moscow
+248,2025-06-01,paid_search,Other
+249,2025-10-15,referral,Novosibirsk
+250,2025-01-16,referral,Moscow
+251,2025-03-07,paid_search,Other
+252,2025-06-30,email,Kazan
+253,2025-03-10,social,Kazan
+254,2025-05-01,referral,Other
+255,2025-08-30,paid_search,Moscow
+256,2025-02-22,paid_search,Moscow
+257,2025-09-05,paid_search,Novosibirsk
+258,2025-02-07,organic,Moscow
+259,2025-03-05,paid_search,Other
+260,2025-08-03,email,Moscow
+261,2025-10-17,social,Moscow
+262,2025-03-04,organic,Moscow
+263,2025-04-20,paid_search,Saint Petersburg
+264,2025-12-04,organic,Moscow
+265,2025-12-28,organic,Moscow
+266,2025-08-01,email,Other
+267,2025-06-13,paid_search,Saint Petersburg
+268,2025-05-07,paid_search,Saint Petersburg
+269,2025-08-12,social,Moscow
+270,2025-08-04,organic,Saint Petersburg
+271,2025-04-18,organic,Moscow
+272,2025-01-09,social,Novosibirsk
+273,2025-02-25,social,Moscow
+274,2025-12-16,email,Other
+275,2025-06-02,social,Other
+276,2025-06-26,paid_search,Moscow
+277,2025-06-20,referral,Moscow
+278,2025-10-13,email,Moscow
+279,2025-01-24,referral,Novosibirsk
+280,2025-01-31,email,Moscow
+281,2025-04-11,referral,Other
+282,2025-06-27,referral,Other
+283,2025-09-02,organic,Other
+284,2025-06-29,referral,Kazan
+285,2025-06-11,paid_search,Other
+286,2025-12-09,social,Moscow
+287,2025-02-28,social,Saint Petersburg
+288,2025-07-28,email,Saint Petersburg
+289,2025-07-17,email,Other
+290,2025-06-22,organic,Novosibirsk
+291,2025-10-22,referral,Other
+292,2025-04-08,referral,Moscow
+293,2025-12-15,paid_search,Other
+294,2025-05-02,organic,Kazan
+295,2025-07-18,organic,Kazan
+296,2025-07-10,referral,Other
+297,2025-11-07,paid_search,Saint Petersburg
+298,2025-06-10,email,Saint Petersburg
+299,2025-04-14,paid_search,Novosibirsk
+300,2025-01-08,email,Moscow
+301,2025-05-13,paid_search,Saint Petersburg
+302,2025-10-29,referral,Moscow
+303,2025-01-04,organic,Moscow
+304,2025-11-24,social,Other
+305,2025-07-18,referral,Novosibirsk
+306,2025-02-21,email,Saint Petersburg
+307,2025-04-21,referral,Saint Petersburg
+308,2025-07-22,organic,Saint Petersburg
+309,2025-04-26,paid_search,Novosibirsk
+310,2025-02-09,organic,Other
+311,2025-09-01,organic,Other
+312,2025-09-03,social,Saint Petersburg
+313,2025-02-13,social,Saint Petersburg
+314,2025-04-13,referral,Kazan
+315,2025-03-31,referral,Kazan
+316,2025-08-29,referral,Kazan
+317,2025-09-24,referral,Novosibirsk
+318,2025-09-23,organic,Kazan
+319,2025-12-09,organic,Saint Petersburg
+320,2025-10-08,social,Saint Petersburg
+321,2025-04-28,referral,Saint Petersburg
+322,2025-02-09,organic,Moscow
+323,2025-08-13,paid_search,Moscow
+324,2025-12-01,social,Other
+325,2025-12-22,organic,Saint Petersburg
+326,2025-03-26,paid_search,Moscow
+327,2025-03-28,email,Kazan
+328,2025-01-14,social,Other
+329,2025-02-21,organic,Moscow
+330,2025-07-22,referral,Other
+331,2025-07-19,paid_search,Other
+332,2025-05-16,referral,Novosibirsk
+333,2025-04-24,organic,Novosibirsk
+334,2025-10-30,social,Moscow
+335,2025-06-17,paid_search,Other
+336,2025-10-23,organic,Saint Petersburg
+337,2025-12-18,email,Other
+338,2025-04-26,organic,Novosibirsk
+339,2025-03-15,organic,Moscow
+340,2025-12-14,paid_search,Moscow
+341,2025-08-20,social,Other
+342,2025-04-17,referral,Kazan
+343,2025-08-15,email,Moscow
+344,2025-07-07,organic,Other
+345,2025-11-27,paid_search,Other
+346,2025-04-04,organic,Kazan
+347,2025-12-28,social,Kazan
+348,2025-12-08,email,Moscow
+349,2025-03-07,social,Other
+350,2025-03-02,social,Saint Petersburg
+351,2025-07-14,paid_search,Other
+352,2025-01-17,email,Saint Petersburg
+353,2025-04-20,paid_search,Kazan
+354,2025-06-08,organic,Moscow
+355,2025-12-20,paid_search,Moscow
+356,2025-12-29,organic,Other
+357,2025-02-25,organic,Kazan
+358,2025-11-22,organic,Kazan
+359,2025-02-03,paid_search,Other
+360,2025-10-01,social,Other
+361,2025-11-05,paid_search,Other
+362,2025-11-22,paid_search,Moscow
+363,2025-03-23,email,Novosibirsk
+364,2025-11-23,referral,Other
+365,2025-02-12,social,Saint Petersburg
+366,2025-07-09,organic,Moscow
+367,2025-06-21,email,Other
+368,2025-04-26,organic,Kazan
+369,2025-01-09,paid_search,Kazan
+370,2025-10-09,email,Other
+371,2025-05-03,paid_search,Novosibirsk
+372,2025-08-30,referral,Saint Petersburg
+373,2025-05-30,social,Saint Petersburg
+374,2025-05-17,social,Saint Petersburg
+375,2025-11-20,organic,Moscow
+376,2025-02-04,organic,Other
+377,2025-09-26,paid_search,Other
+378,2025-09-30,organic,Saint Petersburg
+379,2025-05-19,referral,Saint Petersburg
+380,2025-04-06,organic,Other
+381,2025-01-02,social,Moscow
+382,2025-12-08,referral,Kazan
+383,2025-12-12,referral,Kazan
+384,2025-03-29,paid_search,Other
+385,2025-01-12,paid_search,Moscow
+386,2025-02-14,email,Novosibirsk
+387,2025-01-25,social,Saint Petersburg
+388,2025-10-31,referral,Novosibirsk
+389,2025-11-22,email,Moscow
+390,2025-02-25,referral,Kazan
+391,2025-09-30,organic,Kazan
+392,2025-03-07,social,Moscow
+393,2025-05-15,organic,Moscow
+394,2025-08-07,social,Moscow
+395,2025-09-20,email,Saint Petersburg
+396,2025-11-16,paid_search,Moscow
+397,2025-01-17,paid_search,Other
+398,2025-03-13,organic,Saint Petersburg
+399,2025-04-13,email,Other
+400,2025-04-24,organic,Other
+401,2025-12-31,organic,Moscow
+402,2025-10-11,organic,Novosibirsk
+403,2025-04-27,organic,Other
+404,2025-12-21,paid_search,Novosibirsk
+405,2025-07-02,paid_search,Saint Petersburg
+406,2025-07-02,paid_search,Saint Petersburg
+407,2025-06-08,organic,Moscow
+408,2025-02-22,organic,Kazan
+409,2025-12-08,paid_search,Other
+410,2025-01-06,organic,Other
+411,2025-03-05,social,Moscow
+412,2025-03-25,organic,Other
+413,2025-04-12,paid_search,Saint Petersburg
+414,2025-02-18,paid_search,Other
+415,2025-01-07,paid_search,Moscow
+416,2025-09-05,organic,Other
+417,2025-12-20,organic,Other
+418,2025-02-14,referral,Moscow
+419,2025-04-19,organic,Moscow
+420,2025-07-04,paid_search,Other
+421,2025-12-05,paid_search,Moscow
+422,2025-09-11,paid_search,Kazan
+423,2025-10-07,paid_search,Other
+424,2025-08-01,referral,Kazan
+425,2025-06-02,referral,Saint Petersburg
+426,2025-03-14,organic,Saint Petersburg
+427,2025-11-12,paid_search,Moscow
+428,2025-10-21,organic,Other
+429,2025-01-10,paid_search,Saint Petersburg
+430,2025-09-19,social,Moscow
+431,2025-01-31,organic,Saint Petersburg
+432,2025-09-27,paid_search,Other
+433,2025-10-29,email,Moscow
+434,2025-02-17,organic,Other
+435,2025-06-08,paid_search,Other
+436,2025-02-15,social,Other
+437,2025-07-27,organic,Other
+438,2025-12-05,organic,Other
+439,2025-01-30,organic,Other
+440,2025-05-26,email,Moscow
+441,2025-12-22,organic,Other
+442,2025-04-20,organic,Kazan
+443,2025-02-18,organic,Kazan
+444,2025-06-28,organic,Other
+445,2025-07-05,social,Other
+446,2025-08-30,organic,Other
+447,2025-04-25,social,Kazan
+448,2025-12-15,social,Kazan
+449,2025-07-10,referral,Saint Petersburg
+450,2025-04-15,organic,Saint Petersburg
+451,2025-12-17,referral,Saint Petersburg
+452,2025-12-04,social,Moscow
+453,2025-07-02,organic,Moscow
+454,2025-01-10,referral,Other
+455,2025-08-06,referral,Saint Petersburg
+456,2025-07-22,organic,Other
+457,2025-02-24,email,Novosibirsk
+458,2025-08-20,paid_search,Moscow
+459,2025-11-03,social,Moscow
+460,2025-02-08,email,Moscow
+461,2025-09-22,paid_search,Other
+462,2025-02-21,referral,Moscow
+463,2025-10-01,paid_search,Kazan
+464,2025-06-02,referral,Other
+465,2025-01-03,social,Other
+466,2025-12-19,organic,Moscow
+467,2025-03-02,paid_search,Moscow
+468,2025-08-06,paid_search,Moscow
+469,2025-03-08,organic,Moscow
+470,2025-12-07,organic,Moscow
+471,2025-09-27,paid_search,Kazan
+472,2025-10-21,organic,Other
+473,2025-06-07,organic,Kazan
+474,2025-06-20,referral,Novosibirsk
+475,2025-08-20,social,Moscow
+476,2025-10-14,referral,Other
+477,2025-11-06,paid_search,Novosibirsk
+478,2025-01-07,email,Other
+479,2025-08-31,social,Other
+480,2025-02-09,organic,Saint Petersburg
+481,2025-04-16,organic,Moscow
+482,2025-10-30,social,Moscow
+483,2025-04-02,organic,Saint Petersburg
+484,2025-10-18,paid_search,Other
+485,2025-06-18,email,Saint Petersburg
+486,2025-03-26,organic,Other
+487,2025-05-02,organic,Kazan
+488,2025-07-13,email,Moscow
+489,2025-10-07,social,Saint Petersburg
+490,2025-08-10,organic,Novosibirsk
+491,2025-12-07,email,Other
+492,2025-11-13,email,Saint Petersburg
+493,2025-10-02,paid_search,Moscow
+494,2025-08-09,social,Other
+495,2025-04-16,organic,Moscow
+496,2025-05-31,organic,Other
+497,2025-02-13,social,Moscow
+498,2025-05-17,organic,Moscow
+499,2025-12-05,social,Kazan
+500,2025-06-05,referral,Kazan
+501,2025-02-11,organic,Kazan
+502,2025-08-26,social,Saint Petersburg
+503,2025-12-18,organic,Other
+504,2025-11-13,referral,Kazan
+505,2025-04-11,organic,Kazan
+506,2025-06-15,social,Saint Petersburg
+507,2025-07-13,social,Moscow
+508,2025-04-01,paid_search,Novosibirsk
+509,2025-04-09,social,Moscow
+510,2025-03-28,referral,Novosibirsk
+511,2025-12-30,social,Moscow
+512,2025-09-30,referral,Other
+513,2025-11-03,email,Kazan
+514,2025-10-26,paid_search,Other
+515,2025-12-17,paid_search,Kazan
+516,2025-02-08,organic,Moscow
+517,2025-11-18,referral,Other
+518,2025-01-25,paid_search,Novosibirsk
+519,2025-06-23,paid_search,Other
+520,2025-08-05,organic,Saint Petersburg
+521,2025-05-11,email,Novosibirsk
+522,2025-02-23,paid_search,Other
+523,2025-03-12,social,Novosibirsk
+524,2025-10-29,organic,Saint Petersburg
+525,2025-04-27,email,Novosibirsk
+526,2025-04-24,organic,Other
+527,2025-12-04,organic,Other
+528,2025-02-22,referral,Saint Petersburg
+529,2025-12-01,email,Saint Petersburg
+530,2025-12-03,organic,Other
+531,2025-08-07,paid_search,Kazan
+532,2025-03-02,referral,Other
+533,2025-02-26,referral,Kazan
+534,2025-04-14,paid_search,Moscow
+535,2025-07-30,paid_search,Other
+536,2025-02-26,referral,Moscow
+537,2025-06-16,referral,Moscow
+538,2025-02-12,referral,Novosibirsk
+539,2025-07-17,social,Other
+540,2025-01-08,organic,Other
+541,2025-09-16,email,Moscow
+542,2025-01-21,referral,Moscow
+543,2025-03-13,referral,Other
+544,2025-03-05,organic,Moscow
+545,2025-10-31,organic,Moscow
+546,2025-01-20,referral,Saint Petersburg
+547,2025-06-06,organic,Kazan
+548,2025-08-04,email,Other
+549,2025-07-08,paid_search,Other
+550,2025-09-06,social,Other
+551,2025-10-21,email,Moscow
+552,2025-05-24,paid_search,Saint Petersburg
+553,2025-10-30,paid_search,Kazan
+554,2025-04-27,social,Moscow
+555,2025-12-26,social,Moscow
+556,2025-07-04,paid_search,Saint Petersburg
+557,2025-09-26,social,Moscow
+558,2025-11-16,email,Kazan
+559,2025-10-17,paid_search,Other
+560,2025-11-07,organic,Moscow
+561,2025-07-15,paid_search,Kazan
+562,2025-01-16,paid_search,Other
+563,2025-06-29,organic,Other
+564,2025-03-08,organic,Other
+565,2025-11-21,social,Saint Petersburg
+566,2025-03-28,paid_search,Other
+567,2025-03-25,email,Moscow
+568,2025-04-02,organic,Saint Petersburg
+569,2025-08-23,organic,Moscow
+570,2025-07-28,referral,Kazan
+571,2025-12-13,email,Saint Petersburg
+572,2025-06-01,organic,Moscow
+573,2025-04-14,organic,Other
+574,2025-01-18,organic,Saint Petersburg
+575,2025-01-03,paid_search,Moscow
+576,2025-05-17,paid_search,Moscow
+577,2025-12-04,organic,Saint Petersburg
+578,2025-07-11,organic,Saint Petersburg
+579,2025-11-23,paid_search,Saint Petersburg
+580,2025-02-07,email,Moscow
+581,2025-02-04,social,Other
+582,2025-11-01,paid_search,Other
+583,2025-02-08,organic,Kazan
+584,2025-01-19,organic,Novosibirsk
+585,2025-05-28,organic,Other
+586,2025-12-04,referral,Other
+587,2025-09-09,referral,Novosibirsk
+588,2025-02-06,email,Other
+589,2025-11-02,email,Other
+590,2025-11-04,email,Other
+591,2025-10-20,email,Kazan
+592,2025-11-26,organic,Moscow
+593,2025-03-29,organic,Moscow
+594,2025-12-24,paid_search,Kazan
+595,2025-04-28,social,Kazan
+596,2025-10-20,organic,Saint Petersburg
+597,2025-07-31,referral,Kazan
+598,2025-10-12,social,Kazan
+599,2025-08-18,social,Other
+600,2025-08-23,organic,Moscow
+601,2025-08-13,organic,Moscow
+602,2025-10-12,organic,Other
+603,2025-09-27,referral,Other
+604,2025-02-19,social,Other
+605,2025-10-29,referral,Other
+606,2025-07-15,organic,Other
+607,2025-04-28,paid_search,Saint Petersburg
+608,2025-07-07,paid_search,Saint Petersburg
+609,2025-12-19,referral,Moscow
+610,2025-11-10,referral,Novosibirsk
+611,2025-11-01,organic,Other
+612,2025-06-18,email,Saint Petersburg
+613,2025-10-14,organic,Kazan
+614,2025-05-21,email,Saint Petersburg
+615,2025-09-08,organic,Moscow
+616,2025-08-22,organic,Moscow
+617,2025-04-02,referral,Moscow
+618,2025-04-08,organic,Other
+619,2025-01-23,paid_search,Saint Petersburg
+620,2025-02-21,paid_search,Other
+621,2025-06-08,organic,Other
+622,2025-06-24,social,Moscow
+623,2025-03-02,referral,Moscow
+624,2025-06-02,referral,Other
+625,2025-08-09,paid_search,Moscow
+626,2025-03-26,paid_search,Other
+627,2025-05-04,organic,Moscow
+628,2025-05-15,organic,Other
+629,2025-07-04,organic,Other
+630,2025-05-14,email,Moscow
+631,2025-09-26,email,Moscow
+632,2025-04-30,referral,Other
+633,2025-06-08,paid_search,Moscow
+634,2025-05-19,paid_search,Saint Petersburg
+635,2025-03-08,paid_search,Saint Petersburg
+636,2025-09-08,paid_search,Moscow
+637,2025-03-27,paid_search,Other
+638,2025-04-19,organic,Other
+639,2025-10-17,organic,Saint Petersburg
+640,2025-12-13,email,Other
+641,2025-09-02,paid_search,Moscow
+642,2025-12-01,email,Moscow
+643,2025-11-08,organic,Novosibirsk
+644,2025-06-25,social,Other
+645,2025-10-09,organic,Moscow
+646,2025-04-30,organic,Moscow
+647,2025-06-18,organic,Kazan
+648,2025-07-15,organic,Other
+649,2025-12-17,email,Moscow
+650,2025-11-06,paid_search,Saint Petersburg
